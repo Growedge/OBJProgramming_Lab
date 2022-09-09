@@ -2,3 +2,4 @@ items     price
 pen        5
 notebook   10
 pencil     3
+book       25
